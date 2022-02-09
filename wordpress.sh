@@ -22,6 +22,11 @@ sudo apt install php7.4
 
 sudo apt install php7.4-mysql
 
+sudo apt install php7.4-xml
+
+sudo apt install php 7.4-cURL
+
+
 
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
 
